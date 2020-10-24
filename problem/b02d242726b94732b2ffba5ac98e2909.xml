@@ -1,0 +1,93 @@
+<problem display_name="Examen final" markdown="&gt;&gt;1.La evolución de estos sistemas ha influido en gran manera para eficientizar la distribución de las mercancías a lo largo de la historia:&lt;&lt;&#10;(x) Transporte y conservación.&#10;( ) Informáticos y contables.&#10;( ) Mercadotecnia y comercialización.&#10;&#10;&gt;&gt;2.A medida que los consumidores aumentan su rentabilidad. Las economías modernas se caracterizan por poner a disposición de los ciudadanos una:&lt;&lt;&#10;(x) Diversidad muy elevada de mercancías.&#10;( ) Rápida distribución de las mercancías.&#10;( ) Gran variedad de rutas de distribución.&#10;&#10;&gt;&gt;3.Es la diferencia entre un canal de distribución directo y uno indirecto.&lt;&lt;&#10;( ) Producción en línea.&#10;(x) Intermediario.&#10;( ) Multimodal.&#10;&#10;&gt;&gt;4.Son empresas o personas que compran productos al por mayor (generalmente, a empresas productoras o a mayoristas), y que luego los venden al por menor al consumidor final.&lt;&lt;&#10;( ) Mayoristas.&#10;(x) Minoristas.&#10;( ) Intermediarios.&#10;&#10;&gt;&gt;5.Comprende toda la infraestructura y la organización que posibilita la llegada de productos y servicios a los mayoristas, a los minoristas y/o a los consumidores finales&lt;&lt;&#10;( ) Planeación estratégica&#10;( ) Mercadotecnia de servicios&#10;(x) Distribución comercial&#10;&#10;&gt;&gt;6.Su origen se encuentra en el ámbito militar al donde se busca monitorear y distribuir los recursos necesarios en el lugar apropiado en el momento óptimo.&lt;&lt;&#10;( ) Mercadotecnia.&#10;(x) Logística.&#10;( ) Transportación.&#10;&#10;&gt;&gt;7.La adecuada distribución de mercancías gira en torno a:&lt;&lt;&#10;( ) La reducción de los costos.&#10;(x) La satisfacción de las necesidades de los clientes.&#10;( ) El Incremento sustancial en las ventas.&#10;&#10;&gt;&gt;8.Es una filosofía japonesa basada en la mejora continua de los procesos de una organización.&lt;&lt;&#10;( ) Six Sigma.&#10;(x) Kaizen.&#10;( ) JIT Just in time.&#10;&#10;&gt;&gt;9. Hoy las empresas utilizan soluciones para sus almacenes basadas en estas tecnologías.&lt;&lt;&#10;( ) Wifi y Scanners.&#10;(x) IoT y IA.&#10;( ) Hologramas y Videovigilancia.&#10;&#10;&gt;&gt;10. Es la combinación de distintos tipos de transporte utilizado en una distribución.&lt;&lt;&#10;&#10;( ) Transportación Hibrida.&#10;(x) Transportación Multimodal.&#10;( ) Transportación Mixta.&#10;&#10;&#10;&#10;&#10;&#10;&#10;" max_attempts="1" showanswer="never">
+<label>1.La evolución de estos sistemas ha influido en gran manera para eficientizar la distribución de las mercancías a lo largo de la historia:</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Transporte y conservación.</choice>
+    <choice correct="false">Informáticos y contables.</choice>
+    <choice correct="false">Mercadotecnia y comercialización.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>2.A medida que los consumidores aumentan su rentabilidad. Las economías modernas se caracterizan por poner a disposición de los ciudadanos una:</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Diversidad muy elevada de mercancías.</choice>
+    <choice correct="false">Rápida distribución de las mercancías.</choice>
+    <choice correct="false">Gran variedad de rutas de distribución.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>3.Es la diferencia entre un canal de distribución directo y uno indirecto.</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Producción en línea.</choice>
+    <choice correct="true">Intermediario.</choice>
+    <choice correct="false">Multimodal.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>4.Son empresas o personas que compran productos al por mayor (generalmente, a empresas productoras o a mayoristas), y que luego los venden al por menor al consumidor final.</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Mayoristas.</choice>
+    <choice correct="true">Minoristas.</choice>
+    <choice correct="false">Intermediarios.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>5.Comprende toda la infraestructura y la organización que posibilita la llegada de productos y servicios a los mayoristas, a los minoristas y/o a los consumidores finales</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Planeación estratégica</choice>
+    <choice correct="false">Mercadotecnia de servicios</choice>
+    <choice correct="true">Distribución comercial</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>6.Su origen se encuentra en el ámbito militar al donde se busca monitorear y distribuir los recursos necesarios en el lugar apropiado en el momento óptimo.</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Mercadotecnia.</choice>
+    <choice correct="true">Logística.</choice>
+    <choice correct="false">Transportación.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>7.La adecuada distribución de mercancías gira en torno a:</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">La reducción de los costos.</choice>
+    <choice correct="true">La satisfacción de las necesidades de los clientes.</choice>
+    <choice correct="false">El Incremento sustancial en las ventas.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>8.Es una filosofía japonesa basada en la mejora continua de los procesos de una organización.</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Six Sigma.</choice>
+    <choice correct="true">Kaizen.</choice>
+    <choice correct="false">JIT Just in time.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>9. Hoy las empresas utilizan soluciones para sus almacenes basadas en estas tecnologías.</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Wifi y Scanners.</choice>
+    <choice correct="true">IoT y IA.</choice>
+    <choice correct="false">Hologramas y Videovigilancia.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>10. Es la combinación de distintos tipos de transporte utilizado en una distribución.</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Transportación Hibrida.</choice>
+    <choice correct="true">Transportación Multimodal.</choice>
+    <choice correct="false">Transportación Mixta.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

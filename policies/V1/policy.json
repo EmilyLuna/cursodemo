@@ -1,0 +1,123 @@
+{
+    "course/V1": {
+        "advanced_modules": [
+            "done", 
+            "google-document", 
+            "google-calendar", 
+            "lti_consumer", 
+            "poll", 
+            "survey", 
+            "vectordraw", 
+            "freetextresponse", 
+            "edx_sga", 
+            "launchcontainer", 
+            "pdf", 
+            "ubcpi", 
+            "problem-builder"
+        ], 
+        "cert_html_view_enabled": true, 
+        "certificates": {
+            "certificates": [
+                {
+                    "course_title": "Estrategias de distribuci\u00f3n ", 
+                    "description": "Description of the certificate", 
+                    "id": 1377859780, 
+                    "is_active": true, 
+                    "name": "Name of the certificate", 
+                    "signatories": [
+                        {
+                            "certificate": 1377859780, 
+                            "id": 1527619981, 
+                            "name": "", 
+                            "organization": "", 
+                            "signature_image_path": "", 
+                            "title": ""
+                        }
+                    ], 
+                    "version": 1
+                }
+            ]
+        }, 
+        "course_image": "Imagen estrategias de distribucion.png", 
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        }, 
+        "display_name": "-Estrategias de Distribuci\u00f3n", 
+        "edxnotes": true, 
+        "end": "2030-09-01T00:30:00Z", 
+        "enrollment_end": "2030-09-01T00:30:00Z", 
+        "enrollment_start": "2020-10-01T00:30:00Z", 
+        "graceperiod": "", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "language": "es", 
+        "learning_info": [], 
+        "minimum_grade_credit": 0.8, 
+        "pdf_textbooks": [
+            {
+                "chapters": [
+                    {
+                        "title": "All", 
+                        "url": "/static/10Cuentos_LasMilNoches.pdf"
+                    }
+                ], 
+                "id": "1Las_mil_y_una_noches", 
+                "tab_title": "Las mil y una noches"
+            }
+        ], 
+        "self_paced": true, 
+        "start": "2020-10-01T00:30:00Z", 
+        "tabs": [
+            {
+                "course_staff_only": false, 
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Notes", 
+                "type": "edxnotes"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Progress", 
+                "type": "progress"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Formato de evaluaci\u00f3n", 
+                "type": "static_tab", 
+                "url_slug": "384dfba62a6843f8948870619980d36a"
+            }, 
+            {
+                "course_staff_only": false, 
+                "is_hidden": true, 
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Textbooks", 
+                "type": "pdf_textbooks"
+            }
+        ]
+    }
+}

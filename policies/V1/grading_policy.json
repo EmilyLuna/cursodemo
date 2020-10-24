@@ -1,0 +1,28 @@
+{
+    "GRADER": [
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Actividades", 
+            "type": "Actividades", 
+            "weight": 0.25
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Examen Modular", 
+            "type": "Examen Modular", 
+            "weight": 0.25
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Examen Final ", 
+            "type": "Examen Final ", 
+            "weight": 0.5
+        }
+    ], 
+    "GRADE_CUTOFFS": {
+        "Pass": 0.75
+    }
+}

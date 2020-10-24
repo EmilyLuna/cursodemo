@@ -1,0 +1,45 @@
+<problem display_name="Examen modular" markdown="Selecciona la respuesta correcta&#10;&#10;&gt;&gt;1.El intermediario ___________________ se caracteriza por vender a mayoristas o fabricantes, pero nunca al consumidor final.&lt;&lt;&#10;[[Minorista,(Mayorista),Franquiciatario]]&#10;&#10;&#10;&gt;&gt;2.En un canal de distribución __________________ las mercancías viajan desde el fabricante hasta el mayorista, después al minorista y finalmente llega al consumidor&lt;&lt;&#10;[[Corto,(Largo),Doble]]&#10;&#10;&gt;&gt;3.Las funciones de los canales de distribución pueden_______________________________, pero no pueden ser eliminadas.&lt;&lt;&#10;[[Sustituirse&#10;Ignorarse&#10;(Modificarse)]]&#10;&#10;&gt;&gt;4.Al diseñar los Canales de distribución, los fabricantes deben luchar entre lo Ideal, los factible y lo ___________________ para desarrollar un proceso eficiente.&lt;&lt;&#10;[[(Disponible)&#10;Rentable&#10;Mas rápido]]&#10;&#10;&#10;&gt;&gt;5.La __________________________ consiste en la utilización de solo algunos intermediarios dispuestos a distribuir un producto determinado.&lt;&lt;&#10;&#10;[[Distribución Exclusiva&#10;(Distribución Selectiva)&#10;Distribución Intensiva]]" max_attempts="1" showanswer="never">
+<p>Selecciona la respuesta correcta</p>
+
+<label>1.El intermediario ___________________ se caracteriza por vender a mayoristas o fabricantes, pero nunca al consumidor final.</label>
+<optionresponse>
+  <optioninput options="('Minorista','Mayorista','Franquiciatario')" correct="Mayorista"/>
+</optionresponse>
+
+
+<label>2.En un canal de distribución __________________ las mercancías viajan desde el fabricante hasta el mayorista, después al minorista y finalmente llega al consumidor</label>
+<optionresponse>
+  <optioninput options="('Corto','Largo','Doble')" correct="Largo"/>
+</optionresponse>
+
+<label>3.Las funciones de los canales de distribución pueden_______________________________, pero no pueden ser eliminadas.</label>
+<optionresponse>
+  <optioninput>
+    <option correct="False">Sustituirse</option>
+    <option correct="False">Ignorarse</option>
+    <option correct="True">Modificarse</option>
+  </optioninput>
+</optionresponse>
+
+<label>4.Al diseñar los Canales de distribución, los fabricantes deben luchar entre lo Ideal, los factible y lo ___________________ para desarrollar un proceso eficiente.</label>
+<optionresponse>
+  <optioninput>
+    <option correct="True">Disponible</option>
+    <option correct="False">Rentable</option>
+    <option correct="False">Mas rápido</option>
+  </optioninput>
+</optionresponse>
+
+
+<label>5.La __________________________ consiste en la utilización de solo algunos intermediarios dispuestos a distribuir un producto determinado.</label>
+
+<optionresponse>
+  <optioninput>
+    <option correct="False">Distribución Exclusiva</option>
+    <option correct="True">Distribución Selectiva</option>
+    <option correct="False">Distribución Intensiva</option>
+  </optioninput>
+</optionresponse>
+
+
+</problem>

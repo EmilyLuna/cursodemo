@@ -1,0 +1,180 @@
+{
+    "10Cuentos_LasMilNoches.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ED005", 
+            "name": "10Cuentos_LasMilNoches.pdf", 
+            "org": "Woccu_Umx", 
+            "revision": null, 
+            "run": "V1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "10Cuentos_LasMilNoches.pdf", 
+        "filename": "asset-v1:Woccu_Umx+ED005+V1+type@asset+block@10Cuentos_LasMilNoches.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Articulo_Logistica_-_almacenes_inteligentes.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ED005", 
+            "name": "Articulo_Logistica_-_almacenes_inteligentes.pdf", 
+            "org": "Woccu_Umx", 
+            "revision": null, 
+            "run": "V1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Articulo Logistica - almacenes inteligentes.pdf", 
+        "filename": "asset-v1:Woccu_Umx+ED005+V1+type@asset+block@Articulo_Logistica_-_almacenes_inteligentes.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "INFOGRAFIA_DISENO_DE_LOS_CANALES_DE_DISTRIBUCION.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ED005", 
+            "name": "INFOGRAFIA_DISENO_DE_LOS_CANALES_DE_DISTRIBUCION.jpg", 
+            "org": "Woccu_Umx", 
+            "revision": null, 
+            "run": "V1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "INFOGRAFIA DISENO DE LOS CANALES DE DISTRIBUCION.jpg", 
+        "filename": "asset-v1:Woccu_Umx+ED005+V1+type@asset+block@INFOGRAFIA_DISENO_DE_LOS_CANALES_DE_DISTRIBUCION.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Woccu_Umx", 
+            "ED005", 
+            "thumbnail", 
+            "INFOGRAFIA_DISENO_DE_LOS_CANALES_DE_DISTRIBUCION.jpg", 
+            null
+        ]
+    }, 
+    "INFOGRAFIA_DISTRIBUCION_FISICA.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ED005", 
+            "name": "INFOGRAFIA_DISTRIBUCION_FISICA.jpg", 
+            "org": "Woccu_Umx", 
+            "revision": null, 
+            "run": "V1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "INFOGRAFIA DISTRIBUCION FISICA.jpg", 
+        "filename": "asset-v1:Woccu_Umx+ED005+V1+type@asset+block@INFOGRAFIA_DISTRIBUCION_FISICA.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Woccu_Umx", 
+            "ED005", 
+            "thumbnail", 
+            "INFOGRAFIA_DISTRIBUCION_FISICA.jpg", 
+            null
+        ]
+    }, 
+    "INFOGRAFIA_OBJETIVOS_DE_LOGISTICA.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ED005", 
+            "name": "INFOGRAFIA_OBJETIVOS_DE_LOGISTICA.jpg", 
+            "org": "Woccu_Umx", 
+            "revision": null, 
+            "run": "V1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "INFOGRAFIA OBJETIVOS DE LOGISTICA.jpg", 
+        "filename": "asset-v1:Woccu_Umx+ED005+V1+type@asset+block@INFOGRAFIA_OBJETIVOS_DE_LOGISTICA.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Woccu_Umx", 
+            "ED005", 
+            "thumbnail", 
+            "INFOGRAFIA_OBJETIVOS_DE_LOGISTICA.jpg", 
+            null
+        ]
+    }, 
+    "Imagen_estrategias_de_distribucion.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ED005", 
+            "name": "Imagen_estrategias_de_distribucion.png", 
+            "org": "Woccu_Umx", 
+            "revision": null, 
+            "run": "V1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Imagen estrategias de distribucion.png", 
+        "filename": "asset-v1:Woccu_Umx+ED005+V1+type@asset+block@Imagen_estrategias_de_distribucion.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Woccu_Umx", 
+            "ED005", 
+            "thumbnail", 
+            "Imagen_estrategias_de_distribucion-png.jpg", 
+            null
+        ]
+    }, 
+    "PONDERACIONES.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ED005", 
+            "name": "PONDERACIONES.png", 
+            "org": "Woccu_Umx", 
+            "revision": null, 
+            "run": "V1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "PONDERACIONES.png", 
+        "filename": "asset-v1:Woccu_Umx+ED005+V1+type@asset+block@PONDERACIONES.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Woccu_Umx", 
+            "ED005", 
+            "thumbnail", 
+            "PONDERACIONES-png.jpg", 
+            null
+        ]
+    }, 
+    "encabezado.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ED005", 
+            "name": "encabezado.png", 
+            "org": "Woccu_Umx", 
+            "revision": null, 
+            "run": "V1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "encabezado.png", 
+        "filename": "asset-v1:Woccu_Umx+ED005+V1+type@asset+block@encabezado.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Woccu_Umx", 
+            "ED005", 
+            "thumbnail", 
+            "encabezado-png.jpg", 
+            null
+        ]
+    }
+}

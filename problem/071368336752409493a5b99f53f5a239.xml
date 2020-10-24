@@ -1,0 +1,52 @@
+<problem display_name="Examen inicial" markdown="Este primer exámen servirá para evaluar tus conocimientos previos al curso.&#10;&#10;Selecciona la respuesta correcta.&#10;&#10;&gt;&gt;1.El concepto de distribución tiene muchos significados concretos para diferentes disciplinas. En el campo del comercio exterior la distribución comprende: &lt;&lt;&#10;&#10;(x) Toda la infraestructura y la organización que posibilita la llegada de productos y servicios a los mayoristas, a los minoristas y/o a los consumidores finales.&#10;( ) Una variable de estudio es un dato de interés, ya que describe en términos matemáticos de qué manera se presenta un determinado fenómeno.&#10;( ) La manera en que la riqueza producida es repartida entre los miembros de las distintas clases sociales.&#10;&#10;&gt;&gt;2.¿Qué entiendes por Canal de distribución comercial? &lt;&lt;&#10;( ) La red de carreteras de un país.&#10;( ) Los puertos marítimos y aéreos de entrada de mercancías a una ciudad o país.&#10;(x) Son las rutas que una empresa utiliza para distribuir sus productos a los puntos de venta.&#10;&#10;&gt;&gt;3.Es la diferencia entre un canal de distribución directo y uno indirecto. &lt;&lt;&#10;&#10;( ) Producción en línea.&#10;(x) Intermediario.&#10;( ) Multimodal.&#10;&#10;&gt;&gt;4.Son empresas o personas que compran productos al por mayor (generalmente, a empresas productoras o a mayoristas), y que luego los venden al por menor al consumidor final. &lt;&lt;&#10;&#10;( ) Mayoristas.&#10;(x) Minoristas.&#10;( ) Intermediarios.&#10;&#10;&gt;&gt;5.Son incógnitas que busca resolver la distribución estratégica.&lt;&lt;&#10;&#10;(x) ¿Cómo llevar el producto al cliente? y ¿Cómo vender más?&#10;( ) ¿A quién comprarle materias primas?  Y ¿A qué precio vender nuestros productos?&#10;( ) ¿Cómo debemos anunciar nuestros productos? Y ¿Cuánto debemos invertir en publicidad?&#10;&#10;&#10;&#10;" max_attempts="1" showanswer="never">
+<p>Este primer exámen servirá para evaluar tus conocimientos previos al curso.</p>
+
+<p>Selecciona la respuesta correcta.</p>
+
+<label>1.El concepto de distribución tiene muchos significados concretos para diferentes disciplinas. En el campo del comercio exterior la distribución comprende: </label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Toda la infraestructura y la organización que posibilita la llegada de productos y servicios a los mayoristas, a los minoristas y/o a los consumidores finales.</choice>
+    <choice correct="false">Una variable de estudio es un dato de interés, ya que describe en términos matemáticos de qué manera se presenta un determinado fenómeno.</choice>
+    <choice correct="false">La manera en que la riqueza producida es repartida entre los miembros de las distintas clases sociales.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>2.¿Qué entiendes por Canal de distribución comercial? </label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">La red de carreteras de un país.</choice>
+    <choice correct="false">Los puertos marítimos y aéreos de entrada de mercancías a una ciudad o país.</choice>
+    <choice correct="true">Son las rutas que una empresa utiliza para distribuir sus productos a los puntos de venta.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>3.Es la diferencia entre un canal de distribución directo y uno indirecto. </label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Producción en línea.</choice>
+    <choice correct="true">Intermediario.</choice>
+    <choice correct="false">Multimodal.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>4.Son empresas o personas que compran productos al por mayor (generalmente, a empresas productoras o a mayoristas), y que luego los venden al por menor al consumidor final. </label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Mayoristas.</choice>
+    <choice correct="true">Minoristas.</choice>
+    <choice correct="false">Intermediarios.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>5.Son incógnitas que busca resolver la distribución estratégica.</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">¿Cómo llevar el producto al cliente? y ¿Cómo vender más?</choice>
+    <choice correct="false">¿A quién comprarle materias primas?  Y ¿A qué precio vender nuestros productos?</choice>
+    <choice correct="false">¿Cómo debemos anunciar nuestros productos? Y ¿Cuánto debemos invertir en publicidad?</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,23 @@
+<problem display_name="Actividad 1" markdown="Completa la frase&#10;&#10;&gt;&gt;1.A medida que aumenta el número de productos distintos, que una economía intercambia, aumenta de forma sustancial la complejidad de la _________________________. &lt;&lt;&#10;[[Adquisición,(Distribución),Mercadotecnia]]&#10;&#10;&#10;&gt;&gt;2.La distribución comprende toda la ___________________________ y la organización que posibilita la llegada de productos y servicios a los mayoristas, a los minoristas y/o a los consumidores finales.&lt;&lt;&#10;[[Empresa,(Infraestructura),Industria marítima]]&#10;&#10;&#10;&gt;&gt;3.Todas las empresas podrán elegir por desarrollar canales de distribución Internos o Externos, esto principalmente dependerá de sus ____________________ para hacer llegar sus mercancías a sus clientes.&lt;&lt;&#10;[[Flotilla de camiones,(Capacidades),Gerentes]]&#10;&#10;&#10;" max_attempts="1" showanswer="never">
+<p>Completa la frase</p>
+
+<label>1.A medida que aumenta el número de productos distintos, que una economía intercambia, aumenta de forma sustancial la complejidad de la _________________________. </label>
+<optionresponse>
+  <optioninput options="('Adquisición','Distribución','Mercadotecnia')" correct="Distribución"/>
+</optionresponse>
+
+
+<label>2.La distribución comprende toda la ___________________________ y la organización que posibilita la llegada de productos y servicios a los mayoristas, a los minoristas y/o a los consumidores finales.</label>
+<optionresponse>
+  <optioninput options="('Empresa','Infraestructura','Industria marítima')" correct="Infraestructura"/>
+</optionresponse>
+
+
+<label>3.Todas las empresas podrán elegir por desarrollar canales de distribución Internos o Externos, esto principalmente dependerá de sus ____________________ para hacer llegar sus mercancías a sus clientes.</label>
+<optionresponse>
+  <optioninput options="('Flotilla de camiones','Capacidades','Gerentes')" correct="Capacidades"/>
+</optionresponse>
+
+
+
+</problem>

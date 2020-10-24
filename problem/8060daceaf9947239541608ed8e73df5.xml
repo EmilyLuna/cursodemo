@@ -1,0 +1,59 @@
+<problem display_name="Cuestionario" markdown="De acuero al contenido del video, contesta la seiguientes preguntas&#10;&#10;&gt;&gt;1.Son todos los métodos que permiten realizar una tarea más eficiente, sus orígenes se ubican en las actividades militares:&lt;&lt;&#10;(x) Logística.&#10;( ) Transporte Terrestre y aéreo.&#10;( ) Entrega a domicilio.&#10;&#10;&gt;&gt;2.La logística empresarial se encarga de estos tres aspectos:&lt;&lt;&#10;( ) Contratar los transportes, Colocar los productos en el lugar apropiado y revisar sus caducidades&#10;( ) Ubicar los puertos marítimos, terrestres y aéreos de entrada de mercancías a una ciudad o país.&#10;(x) Colocar los productos en el lugar apropiado, en el momento preciso y en las condiciones adecuadas&#10;&#10;&gt;&gt;3.Tiene como objetivo revisar y optimizar todos los procesos de la compañía.&lt;&lt;&#10;( ) Producción en línea.&#10;(x) Kaizen.&#10;( ) Just in Time.&#10;&#10;&gt;&gt;4.Amazon es una empresa reconocida mundialmente por…&lt;&lt;&#10;( ) Precios accesibles.&#10;(x) Compleja logística&#10;( ) Garantía 100%.&#10;&#10;&gt;&gt;5.¿La logística Amazon esta soportada por qué tipo de tecnología?&lt;&lt;&#10;(x) Grandes Almacenes con Robots que mueven las mercancías&#10;( ) Centros de atención al cliente con mas de 2mil asesores en todo el mundo&#10;( ) Sitio web intuitivo y con gran MKT de ventas. &#10;&#10;&gt;&gt;6.¿Cuántas ciudades y en cuanto tiempo debía de cubrir Iron Maiden en su gira en 2008?&lt;&lt;&#10;(x) 21 ciudades en 6 semanas&#10;( ) 40 ciudades en 10 semanas&#10;( ) 38 ciudades en 5 semanas. &#10;&#10;&#10;&#10;" max_attempts="1" showanswer="never">
+<p>De acuero al contenido del video, contesta la seiguientes preguntas</p>
+
+<label>1.Son todos los métodos que permiten realizar una tarea más eficiente, sus orígenes se ubican en las actividades militares:</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Logística.</choice>
+    <choice correct="false">Transporte Terrestre y aéreo.</choice>
+    <choice correct="false">Entrega a domicilio.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>2.La logística empresarial se encarga de estos tres aspectos:</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Contratar los transportes, Colocar los productos en el lugar apropiado y revisar sus caducidades</choice>
+    <choice correct="false">Ubicar los puertos marítimos, terrestres y aéreos de entrada de mercancías a una ciudad o país.</choice>
+    <choice correct="true">Colocar los productos en el lugar apropiado, en el momento preciso y en las condiciones adecuadas</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>3.Tiene como objetivo revisar y optimizar todos los procesos de la compañía.</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Producción en línea.</choice>
+    <choice correct="true">Kaizen.</choice>
+    <choice correct="false">Just in Time.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>4.Amazon es una empresa reconocida mundialmente por…</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Precios accesibles.</choice>
+    <choice correct="true">Compleja logística</choice>
+    <choice correct="false">Garantía 100%.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>5.¿La logística Amazon esta soportada por qué tipo de tecnología?</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Grandes Almacenes con Robots que mueven las mercancías</choice>
+    <choice correct="false">Centros de atención al cliente con mas de 2mil asesores en todo el mundo</choice>
+    <choice correct="false">Sitio web intuitivo y con gran MKT de ventas.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<label>6.¿Cuántas ciudades y en cuanto tiempo debía de cubrir Iron Maiden en su gira en 2008?</label>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">21 ciudades en 6 semanas</choice>
+    <choice correct="false">40 ciudades en 10 semanas</choice>
+    <choice correct="false">38 ciudades en 5 semanas.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
